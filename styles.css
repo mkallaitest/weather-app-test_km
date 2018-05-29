@@ -1,0 +1,79 @@
+html {
+	font-family: 'Muli', sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+hr {
+	text-decoration: none;
+	color: black;
+	margin-right: 300px;
+	margin-left: 300px;
+	border: 1px solid black;
+	margin-bottom: 100px;
+}
+
+.container {
+	border: 1px solid black;
+	margin: 10px 200px 10px 200px;
+	border-radius: 12px;
+}
+
+.weather-container {
+	margin-bottom: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	text-align: center;
+	padding: 10px;
+}
+
+button:focus {
+	outline: none !important;
+}
+
+.btn-f {
+	background-image: none;
+	background-color: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.btn-c {
+	background-image: none;
+	background-color: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.btn-clicked {
+	background-image: none;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+}
+
+.temp-span {
+	margin-right: 5px;
+}
+
+.status-container {
+	text-align: center;
+}
+
+.status {
+	margin: 0px;
+	padding: 0px;
+}
+
+.icon-container {
+	text-align: center;
+	font-size: 60px;
+}
